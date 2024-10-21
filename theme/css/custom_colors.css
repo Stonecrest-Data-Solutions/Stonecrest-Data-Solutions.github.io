@@ -1,0 +1,18 @@
+:root {
+    --bs-primary: #1b5d20;
+    --bs-primary-rgb: 27, 93, 32;
+    --bs-secondary: #f3f3f3;
+    --bs-secondary-rgb: 243, 243, 243;
+
+    --sds-light-green: #4caf50;
+    --sds-med-green: #1d5d20;
+    --sds-dark-green: #103813;
+    --sds-light-copper: #ee9542;
+    --sds-med-copper: #b47032;
+    --sds-dark-copper: #7f5024;
+    --sds-light-gray: #47698b;
+    --sds-med-gray: #2f564d;
+    --sds-dark-gray: #192632;
+
+    --sds-muted-tan: #c5a585;
+}

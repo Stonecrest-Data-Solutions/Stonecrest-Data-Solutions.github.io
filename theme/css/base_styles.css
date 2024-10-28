@@ -58,3 +58,9 @@ a {
 p.btn-primary a {
     color: #fff;
 }
+
+@media (max-width: 768px) {
+    .hide-md {
+        display: none;
+    }
+}
